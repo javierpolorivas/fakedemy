@@ -1,14 +1,21 @@
 [
-    {
-       "src": "./img/user.png",
-       "title": "Ejemplo Curso",
-       "desc": "Descripcion Curso",
-       "cat": "Categoria"
+   {
+      "src": "/img/What-is-web-designing.webp",
+      "title": "Web Desingn",
+      "desc": "Professional, attractive, and functional web design, SEO-optimized, adaptable, intuitive, and focused on user experience.",
+      "cat": "Productivity"
+   },
+   {
+       "src": "/img/website-maintenance.png",
+       "title": "Website Maintenance",
+       "desc": "Complete, secure, and optimized web maintenance with updates, backups, monitoring, and continuous technical support.",
+       "cat": "Productivity"
     },
+
     {
-        "src": "./img/user.png",
-        "title": "Ejemplo2 Curso",
-        "desc": "Descripcion2 Curso",
-        "cat": "Categoria2"
-     }
+     "src": "/img/Website-Maintenance-Perth-and-Melbourne-scaled.jpeg",
+     "title": "Web Desingn + Website Maintenance",
+     "desc": "Professional web design and maintenance, secure and optimized, with updates, support, SEO, and intuitive experience.",
+     "cat": "Productivity"
+  }
 ]

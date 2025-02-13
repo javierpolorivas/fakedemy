@@ -1,14 +1,21 @@
 [
-    {
-       "src": "./img/user.png",
-       "title": "Ejemplo1 Curso",
-       "desc": "Descripcion1 Curso",
-       "cat": "Categoria"
+   {
+      "src": "/img/5-factors-when-choosing-PM-type.png",
+      "title": "Project Management",
+      "desc": "Efficient organization, agile methodologies, and clear client communication.",
+      "cat": "Business"
+   },
+   {
+       "src": "/img/Sales-and-marketing.jpg",
+       "title": "Marketing & Sales",
+       "desc": "Digital strategies, engaging content, and negotiation techniques.",
+       "cat": "Business"
     },
     {
-        "src": "./img/user.png",
-        "title": "Ejemplo2 Curso",
-        "desc": "Descripcion2 Curso",
-        "cat": "Categoria2"
+     "src": "/img/Great-Customer-Support-jpg.webp",
+     "title": "Customer Support",
+     "desc": "Fast response, personalized service, and customer retention.",
+     "cat": "Leadership"
      }
+     
 ]
